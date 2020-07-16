@@ -1,0 +1,15 @@
+.firstElement {
+    background-color: gold;
+}
+
+.lastElement {
+    background-color: red;
+}
+
+.odd {
+    background-color: blue;
+}
+
+.even {
+    background-color: purple;
+}
